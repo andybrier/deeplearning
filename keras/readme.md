@@ -2,7 +2,7 @@
 
 ## 0.准备计算环境
 
-需要安装`tensorflow`  `keras` 等
+需要安装`tensorflow` , `keras` 等
 
 ## 1. 准备数据
 
@@ -37,6 +37,8 @@ data/
 
 ##2. 训练模型
 
+### 基本CNN模型： `python clssifier_v1.py`
+
 
 
 
@@ -44,7 +46,7 @@ data/
 ## 参考
 
  - 原始的python脚本： https://gist.github.com/fchollet/0830affa1f7f19fd47b06d4cf89ed44d
-
+ - 原始的blog： https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 
 
 
